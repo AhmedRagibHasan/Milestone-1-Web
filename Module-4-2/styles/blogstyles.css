@@ -1,0 +1,15 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-left: 500px;
+}
+
+nav li:hover{
+    font-size: larger;
+    background-color: blanchedalmond;
+}
+
+nav li a{
+    text-decoration: none;
+    
+}
